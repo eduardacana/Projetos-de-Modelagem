@@ -4,3 +4,4 @@ Este repositório contém projetos de modelagem feitos no MySQL Workbench
 
 
 
+![Cenário de Ordem de Serviço](https://user-images.githubusercontent.com/117105019/200635645-9743b151-1ec6-47ed-8004-209b0b9de124.png)
